@@ -1,2 +1,1 @@
-# PrepCourse-Jim
-Este es un repositorio del modulo 2 
+Este es un proyecto de clonacion de la nube a local.
